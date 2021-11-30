@@ -1,6 +1,6 @@
 # NY-COVID-Appointment-App
 ### By Lana Garrett // DH110 Fall 2021
-## Introduction
+# Introduction
 > The NY COVID-19 Vaccination Appointment App is an app based on the NY government site built for the same purpose. Making vaccine appointments can prove to be confusing for those that are not experienced with technology. I set out to combat this challenge in designing an easy to use app to help allow citizens to get vaccinate and protect themselves against the ongoing pandemic. In this app you can easily create an appointment, cancel an appointmentm get information about the booster vaccines, etc. It is important that all members of society can use and access these resources in any state. Through creating this app, this accessibility to healthcare is truly what I had as my top priority.
 ## Design Statement
 > In creating the app, I kept the user in mind at all times. All throughout the process of creating and ideating, I was constantly asking myself, "Is this as simple as can be for the user?". By creating an easy to use app that lets you schedule your vaccination appointment in various ways, I answered this question with a strong yes. In creating this app, I hope my target audience and users can say the same.
@@ -24,7 +24,7 @@ I conducted 3 more usability tests. The videos of these usability tests can be f
 * [Smayra's Usability Test](https://youtu.be/yzspJebfewQ)
 ### Findings from Additional Testing
 > I decided to conduct 3 additional tests with friends from home. I did not make many revisions to my design after seeing where my users had confusion in the processes I wireframed. All my participants could easily navigate the app I designed with little to no direction. The main sources of confusion that my users encountered was with features that were not yet wireframed or with features such as scrolling for the date or typing your zipcode which would be included in the full functioning design of the app. Some minor changed needed to be made regarding my wireframing after tests like Henry's for example as he got stuck towards the end of the task when there was no clear "undo" or "home" button wireframed in my design. I have since made the wireframe take you to the home page if you wish to get off of the calendar tab as an "undo" button would serve the same function.
-## Conclusion
+# Conclusion
 > Throughout this course and project, I have mastered Figma and learned the basic steps of conducting UX research. I now know how important each each step of the design process is in truly making an app useable. From usability testing to heuristic evaluations, each detail in the process helps us see in to our user's mind.
 The most important thing I learned is that design and aesthetic do not always translate to usability alhtough you can, and should aim to, simultaneously have the two. I truly realized how vauluable feedback regarding my app's usability was while also maintaining a all my design elements throughout the app. I learned that changing my design after feedback and testing, no matter how small the change, is super useful to both the designer and user.
 
